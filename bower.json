@@ -1,0 +1,17 @@
+{
+  "name": "polymer",
+  "version": "0.1.0",
+  "authors": [
+    "GitNiko <Galaxis.ling@gmail.com>"
+  ],
+  "description": "polyer sample",
+  "main": "app.html",
+  "keywords": [
+    "polyer"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular-material": "~0.6.1"
+  }
+}
